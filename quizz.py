@@ -91,7 +91,7 @@ def quizz_question(question_called):
 user_name, question, user_answer, correct_answer, score = quizz_question(questions)
 
 query = 'INSERT INTO quizz (username, question, answer, correct_answer, score) VALUES (%s, %s, %s, %s, %s)'
-data = (user_name, question, user_answer, correct_answer, score)
+data = (user_name, question, correct_answer, user_answer, score)
 
 cur.execute(query, data)
 conn.commit()
