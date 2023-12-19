@@ -1,0 +1,37 @@
+{
+    "questions": [
+      {
+        "question": "When was the State of Israel officially established?",
+        "options": ["1947", "1948", "1950"],
+        "correct_answer": "1948",
+        "explanation": "The State of Israel was officially established on May 14, 1948."
+      },
+      {
+        "question": "Which international organization played a significant role in the establishment of Israel?",
+        "options": ["United Nations", "European Union", "NATO"],
+        "correct_answer": "United Nations",
+        "explanation": "The United Nations played a significant role in the establishment of Israel through the approval of the UN Partition Plan in 1947."
+      },
+      {
+        "question": "What is the capital city of Israel?",
+        "options": ["Tel Aviv", "Jerusalem", "Haifa"],
+        "correct_answer": "Jerusalem",
+        "explanation": "Jerusalem is the capital city of Israel and holds religious significance for Judaism, Christianity, and Islam."
+      },
+    
+      {
+        "question": "What is antisemitism?",
+        "options": ["Hatred against all religions", "Prejudice against Jewish people", "Political ideology"],
+        "correct_answer": "Prejudice against Jewish people",
+        "explanation": "Antisemitism refers to prejudice, discrimination, or hostility directed against Jewish people."
+      },
+      {
+        "question": "Which historical event is often associated with a significant rise in antisemitic actions?",
+        "options": ["World War I", "The Holocaust", "The Renaissance"],
+        "correct_answer": "The Holocaust",
+        "explanation": "The Holocaust, during World War II, resulted in the systematic persecution and genocide of millions of Jews by the Nazis and their collaborators."
+      }
+      
+    ]
+  }
+  
