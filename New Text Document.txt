@@ -1,0 +1,13 @@
+Samuel: Antisemitism awareness quizz
+Th project is simple but it is working and you could review many concepts about 
+Python functions, JSON and Database. 
+I am happy you did present it and very proud of your effort and hard work in doing your best!
+My advice for you is to keep working in this project. The next step can be implementing OOP:
+Creating classes and methods to: 1. connection and saving data in the db. 2: A QUIZZ class with methods to display a menu: start quizz or see leaderboard.
+
+
+Python OOP:7/10
+Modules: 5/10
+Database:7/10
+JSON/API:9/10
+Overall: 7
